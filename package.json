@@ -1,0 +1,19 @@
+{
+  "name": "13-lab02",
+  "version": "1.0.0",
+  "description": "You can find your lab [here](https://github.com/ga-students/JS-DC-4-Lab02)",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
